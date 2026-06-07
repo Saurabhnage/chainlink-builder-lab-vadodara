@@ -1,8 +1,8 @@
-\# Chainlink Builder Lab Vadodara — Workshop Day Guide
+# Chainlink Builder Lab Vadodara — Workshop Day Guide
 
 
 
-\## Before You Arrive
+## Before You Arrive
 
 
 
@@ -10,17 +10,17 @@ Please install:
 
 
 
-\* Node.js 22 LTS or newer
+* Node.js 22 LTS or newer
 
-\* Git
+* Git
 
-\* MetaMask Browser Extension
+* MetaMask Browser Extension
 
-\* VS Code
+* VS Code
 
 
 
-\## Required Accounts
+## Required Accounts
 
 
 
@@ -28,15 +28,15 @@ Create:
 
 
 
-\* GitHub Account
+* GitHub Account
 
-\* Alchemy Account
+* Alchemy Account
 
-\* MetaMask Wallet
+* MetaMask Wallet
 
 
 
-\## Workshop Setup
+## Workshop Setup
 
 
 
@@ -92,11 +92,11 @@ npm run workshop:check
 
 
 
-\## Testnet Faucets
+## Testnet Faucets
 
 
 
-\### Sepolia ETH
+### Sepolia ETH
 
 
 
@@ -104,7 +104,7 @@ https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 
 
 
-\### Avalanche Fuji AVAX
+### Avalanche Fuji AVAX
 
 
 
@@ -112,7 +112,7 @@ https://core.app/tools/testnet-faucet/
 
 
 
-\## Workshop Learning Journey
+## Workshop Learning Journey
 
 
 
@@ -132,7 +132,7 @@ Track 4 → Tokenization
 
 
 
-\## Deployment Commands
+## Deployment Commands
 
 
 
@@ -196,7 +196,7 @@ npm run track4
 
 
 
-\## Need Help?
+## Need Help?
 
 
 

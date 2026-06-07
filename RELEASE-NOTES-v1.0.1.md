@@ -1,50 +1,50 @@
-\# Chainlink Builder Lab Vadodara v1.0.1
+# Chainlink Builder Lab Vadodara v1.0.1
 
 
 
-\## Features
+## Features
 
 
 
-\* Price Feed Workshop
+* Price Feed Workshop
 
-\* Weather Insurance Workshop
+* Weather Insurance Workshop
 
-\* CCIP Workshop
+* CCIP Workshop
 
-\* Tokenization Workshop
-
-
-
-\## Improvements
+* Tokenization Workshop
 
 
 
-\* Added workshop commands
-
-\* Fixed helper imports
-
-\* Improved environment configuration
-
-\* Reduced insurance payout requirement
-
-\* Added CCIP sender configuration
-
-\* Added workshop documentation
+## Improvements
 
 
 
-\## Tested Networks
+* Added workshop commands
+
+* Fixed helper imports
+
+* Improved environment configuration
+
+* Reduced insurance payout requirement
+
+* Added CCIP sender configuration
+
+* Added workshop documentation
 
 
 
-\* Ethereum Sepolia
-
-\* Avalanche Fuji
+## Tested Networks
 
 
 
-\## Validation
+* Ethereum Sepolia
+
+* Avalanche Fuji
+
+
+
+## Validation
 
 
 
@@ -52,13 +52,13 @@ Successfully tested:
 
 
 
-\* Contract compilation
+* Contract compilation
 
-\* Contract deployment
+* Contract deployment
 
-\* CCIP message transmission
+* CCIP message transmission
 
-\* Tokenization workflow
+* Tokenization workflow
 
 
 

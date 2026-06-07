@@ -1,5 +1,5 @@
 import { ethers, network } from "hardhat";
-import { requireEnv, toBigIntEnv } from "../_helpers.js";
+import { requireEnv, toBigIntEnv } from "../_helpers";
 
 async function main() {
   const senderAddress = requireEnv("CCIP_SENDER_ADDRESS");

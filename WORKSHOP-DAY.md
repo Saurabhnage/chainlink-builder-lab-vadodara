@@ -1,4 +1,4 @@
-# Chainlink Builder Lab Vadodara — Workshop Day Guide
+# Chainlink Builder Lab Vadodara - Workshop Day Guide
 
 
 
@@ -116,19 +116,19 @@ https://core.app/tools/testnet-faucet/
 
 
 
-Track 1 → Price Feeds
+Track 1 -> Price Feeds
 
 
 
-Track 2 → Weather Insurance
+Track 2 -> Weather Insurance
 
 
 
-Track 3 → CCIP Cross-Chain Messaging
+Track 3 -> CCIP Cross-Chain Messaging
 
 
 
-Track 4 → Tokenization
+Track 4 -> Tokenization
 
 
 
@@ -201,6 +201,7 @@ npm run track4
 
 
 Raise your hand and a mentor will assist you.
+
 
 
 

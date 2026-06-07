@@ -1,12 +1,12 @@
-\# Mentor Guide
+# Mentor Guide
 
 
 
-\## Common Errors
+## Common Errors
 
 
 
-\### HH117 Empty RPC URL
+### HH117 Empty RPC URL
 
 
 
@@ -14,7 +14,7 @@ Cause:
 
 
 
-SEPOLIA\_RPC\_URL not configured.
+SEPOLIA_RPC_URL not configured.
 
 
 
@@ -26,11 +26,11 @@ Verify .env file and Alchemy endpoint.
 
 
 
-\---
+---
 
 
 
-\### Missing PRIVATE\_KEY
+### Missing PRIVATE_KEY
 
 
 
@@ -50,11 +50,11 @@ Export private key from MetaMask and update .env.
 
 
 
-\---
+---
 
 
 
-\### Insufficient Sepolia ETH
+### Insufficient Sepolia ETH
 
 
 
@@ -74,11 +74,11 @@ Use Sepolia Faucet.
 
 
 
-\---
+---
 
 
 
-\### Insufficient Fuji AVAX
+### Insufficient Fuji AVAX
 
 
 
@@ -98,11 +98,11 @@ Use Fuji Faucet.
 
 
 
-\---
+---
 
 
 
-\### Missing CCIP\_SENDER\_ADDRESS
+### Missing CCIP_SENDER_ADDRESS
 
 
 
@@ -122,15 +122,15 @@ Update:
 
 
 
-CCIP\_SENDER\_ADDRESS=
+CCIP_SENDER_ADDRESS=
 
 
 
-\---
+---
 
 
 
-\### Compile Failure
+### Compile Failure
 
 
 
@@ -148,11 +148,11 @@ npm run workshop:check
 
 
 
-\---
+---
 
 
 
-\### Deployment Failure
+### Deployment Failure
 
 
 
@@ -164,13 +164,13 @@ Check:
 
 
 
-\* RPC URL
+* RPC URL
 
-\* Wallet balance
+* Wallet balance
 
-\* Private key
+* Private key
 
-\* Network selection
+* Network selection
 
 
 

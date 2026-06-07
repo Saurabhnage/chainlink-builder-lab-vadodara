@@ -12,7 +12,7 @@ A beginner-friendly workshop repository for teaching Chainlink through a single 
 ↓  
 **Track 4:** represent real assets with tokenization
 
-This repo is designed for a 4-hour in-person workshop where students can clone the repo, install dependencies, and complete one track without fighting setup issues.
+This repo is designed for a 4-hour in-person workshop where students can clone the repo, install dependencies and complete one track without fighting setup issues.
 
 ## What is inside
 

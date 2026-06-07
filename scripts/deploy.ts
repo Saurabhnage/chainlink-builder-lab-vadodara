@@ -1,5 +1,5 @@
 import { ethers, network } from "hardhat";
-import { NETWORKS, requireEnv, toBigIntEnv, toNumberEnv } from "./_helpers.js";
+import { NETWORKS, requireEnv, toBigIntEnv, toNumberEnv } from "./_helpers";
 
 async function main() {
   const track = (process.env.TRACK ?? "track-1").toLowerCase();

@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "description": "A beginner-friendly Chainlink workshop repository for Vadodara builders.",
-  "type": "module",
   "scripts": {
     "build": "hardhat compile",
     "compile": "hardhat compile",
